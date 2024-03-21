@@ -18,6 +18,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarti-jangra) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/)
 
+<img src="https://komarev.com/ghpvc/?username=aartijangra&label=Profile%20views&color=B048B5&style=plastic" alt="aartijangra" />
+
 ---
 
 <h3 align="center">Languages and Tools:</h3>
